@@ -4,11 +4,11 @@
 
 The Dianshizhai Pictorial report follows a dismissed county magistrate candidate who appeared outside a Confucian temple. It recounts the authorities’ inquiry, the man’s own account, and the decision to handle him as someone considered mentally unwell. The report documents a published example of official assessment outside a hospital. MIT already presents a Chinese reading and English translation from the Yale copy. This dataset preserves the Bavarian witness's column divisions, labels, stamps, and located uncertainties.
 
-## V0.1.0
+## V0.2.0
 
-第54幅完整跨頁。左半正文十二欄、篇題、畫款、印與圖內手牌，右半圖內堂額及同幅版記另列。一個後置手牌有部分被前牌遮擋。此版固定 AI 輔助初錄。疑讀保留定位，尚未經人類全文雙校。
+第54幅完整跨頁。左半正文十二欄、篇題、畫款、印與圖內手牌，右半圖內堂額及同幅版記另列。一個後置手牌有部分被前牌遮擋。比對獨立原圖讀法後回圖裁定，採用 1 筆訂正，留存疑讀定位。
 
-One holding-library scan, including the complete article's 12 body columns and separate labels, marks, and seals. First AI-assisted reading with marked uncertainties. Full double proofreading by humans is pending.
+One holding-library scan, including the complete article's 12 body columns and separate labels, marks, and seals. An independent image reading was compared with the first transcription. Source-image adjudication adopted 1 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 

@@ -1,0 +1,125 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 1,
+  "changes": [
+    {
+      "image": 1,
+      "side": "left",
+      "kind": "printer-seal",
+      "op": "replace",
+      "before": "",
+      "after": "圖說如此",
+      "reason": "右篆上圖下說，左上女口成如，左下止匕成此。",
+      "note_index": 6,
+      "source_bbox": [
+        135,
+        787,
+        213,
+        881
+      ],
+      "source_image_sha256": "152d6034d1a75618bbecd6dced216ea3fd0a621e7efeffe4d520a70ba1cf2965",
+      "canvas": "https://www.digitale-sammlungen.de/en/view/bsb00075644?page=54"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075644?page=54",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 10,
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075644?page=54",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075644?page=54",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075644?page=54",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075644?page=54",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 8,
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075644?page=54",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 9,
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075644?page=54",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 11,
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075644?page=54",
+      "status": "保留疑讀"
+    }
+  ],
+  "retained_readings": [
+    {
+      "side": "left",
+      "column": 4,
+      "reading": "杭府",
+      "rejected": "撫府",
+      "reason": "字左為木，右部亢由点橫與几組成。"
+    },
+    {
+      "side": "left",
+      "column": 5,
+      "reading": "聞信",
+      "rejected": "開信",
+      "reason": "全欄與第十欄聞字門內同型，讀聞。"
+    },
+    {
+      "side": "left",
+      "column": 7,
+      "reading": "頃間",
+      "rejected": "頃聞",
+      "reason": "門內封閉方框，字底無耳形外伸筆。"
+    },
+    {
+      "side": "left",
+      "column": 10,
+      "reading": "批准祗作",
+      "rejected": "批淮祗依",
+      "reason": "准字左二點，與第八欄不准一致。作字右部上撇下直，非衣形。"
+    },
+    {
+      "side": "left",
+      "location": "圖左緣畫款",
+      "reading": "賈醒卿",
+      "rejected": "賈醒鄉",
+      "reason": "末字右為卩，中心可見皂旁。臺灣研究同姓名只作旁證。"
+    },
+    {
+      "side": "left",
+      "location": "畫款下兩方印",
+      "reading": null,
+      "reason": "原圖兩方印分開列位置，印文破碎未穩讀。"
+    }
+  ]
+}
