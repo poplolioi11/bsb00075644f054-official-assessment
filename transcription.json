@@ -1,0 +1,246 @@
+{
+  "metadata": {
+    "work_key": "bsb00075644f054",
+    "title": "革員病瘋",
+    "edition": "0.1.0",
+    "language": "lzh",
+    "shelfmark": "L.sin. K 175-1/10 / bsb00075644, scan 54, 甲六第47圖",
+    "reading_order": "source columns, ordered as printed",
+    "title_policy": "Stand-alone headings in extras, inline ones in their original column",
+    "version": "0.1.0",
+    "dataset_title": "革員病瘋（《點石齋畫報》甲六第47圖，1884 年，巴伐利亞邦立圖書館） / Ge yuan bing feng [A Dismissed Official Assessed as Mentally Unwell]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "scene-inscription",
+              "location": "建築堂額，橫排右起",
+              "text": "明倫堂",
+              "rect": [
+                2125,
+                753,
+                2395,
+                899
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "前者浙藩司德方伯詣"
+            },
+            {
+              "text": "文廟拈香有已革候補知縣陳某徘徊門左錢塘"
+            },
+            {
+              "text": "縣程邑尊見其形跡可疑命役盤詰搜出"
+            },
+            {
+              "text": "洋鎗一桿小刀一柄程邑尊帶至杭府請"
+            },
+            {
+              "text": "示方伯亦於是刻聞信面稟撫憲即飭讞"
+            },
+            {
+              "text": "局訊問該革員狀似瘋癲聲稱被參"
+            },
+            {
+              "text": "後家累甚重不能囘里頃間欲稟明"
+            },
+            {
+              "text": "上憲倘或不准願自斃於階"
+            },
+            {
+              "text": "下云々局員據情上稟刻"
+            },
+            {
+              "text": "下聞已批准祗作瘋子辦"
+            },
+            {
+              "text": "理想大憲有好生之德瘋"
+            },
+            {
+              "text": "員亦當有悔罪之忱矣"
+            }
+          ],
+          "extras": [
+            {
+              "type": "article-title",
+              "location": "篇題",
+              "text": "革員病瘋",
+              "rect": [
+                956,
+                442,
+                1027,
+                693
+              ]
+            },
+            {
+              "type": "form-mark",
+              "location": "原刊圖號",
+              "text": "四十七",
+              "rect": [
+                44,
+                1910,
+                109,
+                2057
+              ]
+            },
+            {
+              "type": "form-mark",
+              "location": "原刊期碼",
+              "text": "甲六",
+              "rect": [
+                49,
+                2272,
+                108,
+                2397
+              ]
+            },
+            {
+              "type": "artist-signature",
+              "location": "圖左緣畫款",
+              "text": "賈醒卿",
+              "rect": [
+                130,
+                1284,
+                175,
+                1448
+              ]
+            },
+            {
+              "type": "artist-seal",
+              "location": "畫款下兩方印",
+              "text": "",
+              "rect": [
+                128,
+                1443,
+                192,
+                1535
+              ]
+            },
+            {
+              "type": "printer-seal",
+              "location": "圖說末一方印",
+              "text": "",
+              "rect": [
+                135,
+                787,
+                213,
+                881
+              ]
+            },
+            {
+              "type": "scene-inscription",
+              "location": "場景左部手牌",
+              "text": "錢塘縣正堂",
+              "rect": [
+                307,
+                1453,
+                421,
+                1591
+              ]
+            },
+            {
+              "type": "scene-inscription",
+              "location": "場景近左版心手牌",
+              "text": "欽命浙江布政司",
+              "rect": [
+                1184,
+                1957,
+                1317,
+                2130
+              ]
+            },
+            {
+              "type": "scene-inscription",
+              "location": "場景中左斜置手牌",
+              "text": "肅靜",
+              "rect": [
+                564,
+                1419,
+                685,
+                1533
+              ]
+            },
+            {
+              "type": "scene-inscription",
+              "location": "肅靜牌後部另牌部分",
+              "text": "□避",
+              "rect": [
+                665,
+                1450,
+                740,
+                1541
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 5,
+          "context": "聞信",
+          "candidates": [
+            "聞信",
+            "開信"
+          ],
+          "note": "前一字門形內部筆畫密合。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "作",
+          "candidates": [
+            "作",
+            "做"
+          ],
+          "note": "右部形似作，仍留做讀以備回圖。"
+        },
+        {
+          "side": "left",
+          "column": 0,
+          "context": "□避",
+          "candidates": [
+            "迴避",
+            "回避"
+          ],
+          "note": "圖內後置手牌上字遮擋。依現存墨跡保留方框；候選不入正文。"
+        }
+      ],
+      "observations": "第54幅完整跨頁。左半正文十二欄、篇題、畫款、印與圖內手牌，右半圖內堂額及同幅版記另列。一個後置手牌有部分被前牌遮擋。",
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075644?page=54",
+      "iiif_canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/canvas/54",
+      "catalogue_page": 54,
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v3/bsb00075644_00054/full/2600,/0/default.jpg",
+      "sha256": "152d6034d1a75618bbecd6dced216ea3fd0a621e7efeffe4d520a70ba1cf2965",
+      "label": "甲六第47圖",
+      "dimensions": [
+        2600,
+        2518
+      ],
+      "article_extent": [
+        32,
+        342,
+        2530,
+        2419
+      ],
+      "content_role": "complete-article",
+      "state": "transcribed"
+    }
+  ]
+}
